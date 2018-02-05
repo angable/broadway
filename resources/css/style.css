@@ -1,0 +1,28 @@
+/* General CSS for Broadway Design */
+
+html {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+/* Heading Styling */
+.header {
+  color: #fff;
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+.header h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.header nav ul li a {
+  color: #fff;
+  font-size: 18px;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+/* Page Content Styling */
