@@ -44,3 +44,11 @@ h3 {
   color: #fff;
   background-image: url("../images/the-flatiron-building.png");
 }
+
+/* Footer Styling */
+.footer, .footer a {
+  font-size: 11px;
+  color: #fff;
+  background-color: dimgray;
+  text-align: left;
+}
