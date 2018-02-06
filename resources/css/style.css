@@ -3,6 +3,11 @@
 html {
   font-family: Helvetica, sans-serif;
   text-align: center;
+  font-size: 14px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
 }
 
 /* Heading Styling */
@@ -14,6 +19,7 @@ html {
 .header h1 {
   font-size: 70px;
   font-weight: bold;
+  margin-top: 0px;
 }
 
 .header nav ul li a {
@@ -26,3 +32,15 @@ ul li {
 }
 
 /* Page Content Styling */
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+.sectionBreak {
+  color: #fff;
+  background-image: url("../images/the-flatiron-building.png");
+}
